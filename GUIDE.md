@@ -1,4 +1,4 @@
-![Node CLI (1).png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8aa3632a57eb405496f364b4baf54eec~tplv-k3u1fbpfcp-watermark.image?)
+# CLI 开发指南
 
 ## 一、什么是 CLI
 
