@@ -4,7 +4,7 @@ Command line tool for rss.Today
 
 ## CLI Guide
 
-see [Guide.md]{GUIDE.md}
+see [Guide.md](GUIDE.md)
 
 ## License
 
